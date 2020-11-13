@@ -42,9 +42,9 @@
     }
   },
   "dependencies": {
-    "@sentry/browser": "^5.27.3",
-    "@sentry/integrations": "^5.27.3",
-    "@sentry/node": "^5.27.3",
+    "@sentry/browser": "^5.27.4",
+    "@sentry/integrations": "^5.27.4",
+    "@sentry/node": "^5.27.4",
     "@sentry/webpack-plugin": "^1.13.0",
     "consola": "^2.15.0",
     "deepmerge": "^4.2.2"
